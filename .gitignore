@@ -3,6 +3,7 @@
 *.ko
 *.obj
 *.elf
+*.pyo
 
 # Precompiled Headers
 *.gch
@@ -30,3 +31,12 @@
 
 # Debug files
 *.dSYM/
+
+# Compiled python modules
+*.pyc
+
+# Editor specific files
+*.swp
+
+
+
