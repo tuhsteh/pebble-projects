@@ -1,7 +1,7 @@
 {
   "uuid": "b3f4c7f9-e1af-4ec5-a2ad-79846575a353",
-  "shortName": "watchface",
-  "longName": "watchface",
+  "shortName": "Stripes",
+  "longName": "Color Stripes",
   "companyName": "qatommy",
   "versionLabel": "1.0",
   "sdkVersion": "3",
@@ -16,14 +16,14 @@
     "media": [
       {
         "type": "font",
-        "name": "FONT_PERFECT_DOS_48",
-        "file": "fonts/perfect-dos-vga.ttf",
+        "name": "COURIER_NEW_40",
+        "file": "fonts/courier.ttf",
         "compatibility":"2.7"
       },
       {
         "type": "png",
-        "name": "IMAGE_BACKGROUND",
-        "file": "images/background.png"
+        "name": "IMAGE_BACKGROUND2",
+        "file": "images/background2.png"
       }
     ]
   }
